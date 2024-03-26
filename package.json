@@ -1,0 +1,22 @@
+{
+  "name": "my_test",
+  "version": "1.0.0",
+  "description": "my github test ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test intest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "my_test"
+  },
+  "keywords": [
+    "first",
+    "and",
+    "last",
+    "test"
+  ],
+  "author": "Fasih khan",
+  "license": "ISC"
+}
